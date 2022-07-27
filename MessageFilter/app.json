@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MessageFilter",
+    "slug": "MessageFilter",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MessageFilter"
+}
